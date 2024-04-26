@@ -16,6 +16,10 @@
     max-width: 700px;
 }
 
+.d-flex {
+    flex: 1;
+}
+
 .b-example-vr {
     flex-shrink: 0;
     width: 1.5rem;
